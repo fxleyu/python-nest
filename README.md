@@ -1,2 +1,3 @@
 # python-nest
-the code of learn python; the code of leetcode; and so on
+
+这里集中了所有练习的`Python`代码。其中包含，但不限于学习过程中的代码块、练习用的OJ等
