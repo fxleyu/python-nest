@@ -95,10 +95,10 @@ class Person5(object):
         self.name = name
         self.__score = score
 
-    def get_grade(x):
-        if x.__score >= 80:
+    def get_grade(self):
+        if self.__score >= 80:
             return 'A'
-        if x.__score >= 60:
+        if self.__score >= 60:
             return 'B'
         return 'C'
 
